@@ -5,9 +5,15 @@
 - 6개의 건물, 약 1600명의 사용자가 사용하는 플랫폼
 
 ## 사용 기술
+Backend
 - Language: javascript(es6), typescript
 - Framework: Express.js
 - Database: MongoDB (Mongoose)
-- DevOps: AWS (ec2, route53, s3, codecommit, cloudwatch)
-- Collaboration: Firebase token, FCM
 - Etc: git, nginx
+  
+Devops
+- AWS (ec2, route53, s3, codecommit, cloudwatch)
+
+Collaboration
+- Firebase token, FCM
+
