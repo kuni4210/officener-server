@@ -9,8 +9,8 @@ Backend
 - Language: javascript(es6), typescript
 - Framework: Express.js
 - Database: MongoDB (Mongoose)
-- Etc: git, nginx
-  
+- Etc: git, nginx, tdd
+    
 Devops
 - AWS (ec2, route53, s3, codecommit, cloudwatch)
 
