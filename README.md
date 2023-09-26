@@ -12,7 +12,7 @@ Backend
 - Etc: git, nginx, tdd
     
 Devops
-- AWS (ec2, route53, s3, codecommit, cloudwatch)
+- AWS (ec2, route53, s3, codecommit)
 
 Collaboration
 - Firebase token, FCM
